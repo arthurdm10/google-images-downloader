@@ -3,7 +3,6 @@ import bs4
 import sys
 from os import path, makedirs
 
-# http://images.google.com/search?q=knife&sout=1&tbm=isch&ei=OpJCW-ubCoWJwgTZyr-YBA&start=0&sa=N
 
 
 def main():
